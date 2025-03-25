@@ -1,4 +1,5 @@
 import { StatusCodes } from 'http-status-codes';
+// console.log(StatusCodes);
 
 export class NotFoundError extends Error {
   constructor(message) {
