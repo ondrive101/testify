@@ -1,0 +1,487 @@
+[
+  {
+    "therapyCode": 1,
+    "name": "Abhyanga ",
+    "price": 1145
+  },
+  {
+    "therapyCode": 2,
+    "name": "Abhyanga-Sthanika",
+    "price": 570
+  },
+  {
+    "therapyCode": 3,
+    "name": "Abhyanga+Sweda",
+    "price": 1280
+  },
+  {
+    "therapyCode": 4,
+    "name": "Avagaha/SARWANG SWEDAN",
+    "price": 765
+  },
+  {
+    "therapyCode": 5,
+    "name": "Anjana",
+    "price": 340
+  },
+  {
+    "therapyCode": 6,
+    "name": "Aanchana (Traction)",
+    "price": 480
+  },
+  {
+    "therapyCode": 7,
+    "name": "Annalepa/Njavaratheppu-Full Body",
+    "price": 1290
+  },
+  {
+    "therapyCode": 8,
+    "name": "Annalepa/Njavaratheppu-Sthanikam",
+    "price": 755
+  },
+  {
+    "therapyCode": 9,
+    "name": "Aschothana",
+    "price": 335
+  },
+  {
+    "therapyCode": 10,
+    "name": "Agnikarma-Infra Red Coagulation (Package rate for full Course of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 11,
+    "name": "Agnikarma-High frequency Coagulation (Package rate for full Course of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 12,
+    "name": "Agnikarma-Radio frequency Coagulation (Package rate for full Course of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 13,
+    "name": "Achasnehapana/day",
+    "price": 440
+  },
+  {
+    "therapyCode": 14,
+    "name": "Bhedana (of Eye)",
+    "price": 565
+  },
+  {
+    "therapyCode": 15,
+    "name": "BhagnaBandhana (Fracture Bandage with Reduction & Immobilisation)",
+    "price": 885
+  },
+  {
+    "therapyCode": 16,
+    "name": "Choorna Pinda Sweda/Podikkizhi-Full Body",
+    "price": 1210
+  },
+  {
+    "therapyCode": 17,
+    "name": "Choorna Pinda Sweda/Podikkizhi- Sthanika/Ekangam",
+    "price": 715
+  },
+  {
+    "therapyCode": 18,
+    "name": "DhanyaPindaswedam/Dhanyakkizhi/Navadhanyakkizhi-Full Body ",
+    "price": 1245
+  },
+  {
+    "therapyCode": 19,
+    "name": "Dhara/Sirodhara-Thaila",
+    "price": 1420
+  },
+  {
+    "therapyCode": 20,
+    "name": "Dhanyamladhara-Sthanika/Local-Katee Dhara etc",
+    "price": 705
+  },
+  {
+    "therapyCode": 21,
+    "name": "Dhoopana",
+    "price": 480
+  },
+  {
+    "therapyCode": 22,
+    "name": "Dhoomapana",
+    "price": 460
+  },
+  {
+    "therapyCode": 23,
+    "name": "Dhanyamla Pindaweda/Dhanyamlakkizhi/Kaatikkizhi-Full Body",
+    "price": 1240
+  },
+  {
+    "therapyCode": 24,
+    "name": "Eshana",
+    "price": 565
+  },
+  {
+    "therapyCode": 25,
+    "name": "Greevavasthi",
+    "price": 845
+  },
+  {
+    "therapyCode": 26,
+    "name": "Gandoosha",
+    "price": 390
+  },
+  {
+    "therapyCode": 27,
+    "name": "Goshbanabandha",
+    "price": 300
+  },
+  {
+    "therapyCode": 28,
+    "name": "Jaloukavacharana/Leech",
+    "price": 745
+  },
+  {
+    "therapyCode": 29,
+    "name": "Jambeerapindasweda/N arangakkizhi-Full Body ",
+    "price": 1190
+  },
+  {
+    "therapyCode": 30,
+    "name": "Januvasthi",
+    "price": 845
+  },
+  {
+    "therapyCode": 31,
+    "name": "Kabala",
+    "price": 390
+  },
+  {
+    "therapyCode": 32,
+    "name": "Kateevasthi",
+    "price": 845
+  },
+  {
+    "therapyCode": 33,
+    "name": "Kashayavasthi (Niroohavasthi)-Different varieties",
+    "price": 1030
+  },
+  {
+    "therapyCode": 34,
+    "name": "KashayaDhara-Full Body",
+    "price": 1045
+  },
+  {
+    "therapyCode": 35,
+    "name": "KashayaDhara-Ekangam/Local",
+    "price": 635
+  },
+  {
+    "therapyCode": 36,
+    "name": "KsheeraDhara (Medicated-different varieties)",
+    "price": 1155
+  },
+  {
+    "therapyCode": 37,
+    "name": "KsheeraDhooma",
+    "price": 735
+  },
+  {
+    "therapyCode": 38,
+    "name": "Kshara Karma (Package rate for full course of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 39,
+    "name": "Ksharasoothra-Low level fistula (Package rate for fullcourse of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 40,
+    "name": "Ksharasoothra-Middle level fistula (Package rate for fullcourse of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 41,
+    "name": "Ksharasoothra-High level fistula (Package rate for fullcourse of treatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 42,
+    "name": "Kshalana",
+    "price": 355
+  },
+  {
+    "therapyCode": 43,
+    "name": "Kshara Pathana (Package rate for full course oftreatment)",
+    "price": 10000
+  },
+  {
+    "therapyCode": 44,
+    "name": "Karnapoorana",
+    "price": 350
+  },
+  {
+    "therapyCode": 45,
+    "name": "Kuttanam ",
+    "price": 540
+  },
+  {
+    "therapyCode": 46,
+    "name": "Lekhana",
+    "price": 540
+  },
+  {
+    "therapyCode": 47,
+    "name": "Lepa/Lepana-Local",
+    "price": 390
+  },
+  {
+    "therapyCode": 48,
+    "name": "Mathravasthi",
+    "price": 350
+  },
+  {
+    "therapyCode": 49,
+    "name": "MamsaPindaSweda/Mamsakkizhi-Full Body",
+    "price": 1420
+  },
+  {
+    "therapyCode": 50,
+    "name": "MamsaPindaSweda/Mamsakkizhi-Sthanikam/Ekangam",
+    "price": 820
+  },
+  {
+    "therapyCode": 51,
+    "name": "Mukhalepa",
+    "price": 490
+  },
+  {
+    "therapyCode": 52,
+    "name": "Moordhataila",
+    "price": 315
+  },
+  {
+    "therapyCode": 53,
+    "name": "Nadeesweda/Snigdhasweda-Full",
+    "price": 580
+  },
+  {
+    "therapyCode": 54,
+    "name": "Nadeesweda/Snigdhasweda-Ekangam/Local",
+    "price": 450
+  },
+  {
+    "therapyCode": 55,
+    "name": "Nethradhara/Akshiseka",
+    "price": 595
+  },
+  {
+    "therapyCode": 56,
+    "name": "Nasya",
+    "price": 600
+  },
+  {
+    "therapyCode": 57,
+    "name": "PathraPindaSweda/Ilakkizhi-full",
+    "price": 1220
+  },
+  {
+    "therapyCode": 58,
+    "name": "PathraPindaSweda/Ilakkizhi-Sthanika/Ekangam",
+    "price": 720
+  },
+  {
+    "therapyCode": 59,
+    "name": "Pizhichil/Kayaseka",
+    "price": 1995
+  },
+  {
+    "therapyCode": 60,
+    "name": "PizJUchil-Sthanikam/Ekangam/Local",
+    "price": 1105
+  },
+  {
+    "therapyCode": 61,
+    "name": "Pichu",
+    "price": 410
+  },
+  {
+    "therapyCode": 62,
+    "name": "Prushtavasthi",
+    "price": 845
+  },
+  {
+    "therapyCode": 63,
+    "name": "Putapaka",
+    "price": 850
+  },
+  {
+    "therapyCode": 64,
+    "name": "Prachanna/Akshi Parichalan",
+    "price": 590
+  },
+  {
+    "therapyCode": 65,
+    "name": "Pindi",
+    "price": 450
+  },
+  {
+    "therapyCode": 66,
+    "name": "ShashtikapindaSweda/Navarakkizhi-Full Body",
+    "price": 1320
+  },
+  {
+    "therapyCode": 67,
+    "name": "ShashtikapindaSweda/Navarakkizhi-Ekangam/Sthanikam",
+    "price": 770
+  },
+  {
+    "therapyCode": 68,
+    "name": "Sirovasthi",
+    "price": 970
+  },
+  {
+    "therapyCode": 69,
+    "name": "Snehapana/day",
+    "price": 440
+  },
+  {
+    "therapyCode": 70,
+    "name": "Sirolepa/Thalapothichil",
+    "price": 1120
+  },
+  {
+    "therapyCode": 71,
+    "name": "Siravayadha/Siravedha/Rakthamoksha",
+    "price": 640
+  },
+  {
+    "therapyCode": 72,
+    "name": "Taila Vasthi/Anuvasan basti",
+    "price": 710
+  },
+  {
+    "therapyCode": 73,
+    "name": "Thakradhara",
+    "price": 1145
+  },
+  {
+    "therapyCode": 74,
+    "name": "Thalam",
+    "price": 410
+  },
+  {
+    "therapyCode": 75,
+    "name": "Tharpana/Netra tarpan/akshi Tarpan",
+    "price": 735
+  },
+  {
+    "therapyCode": 76,
+    "name": "Tailadaha (Package rate for full course of treatment) ",
+    "price": 10000
+  },
+  {
+    "therapyCode": 77,
+    "name": "Thakrapana",
+    "price": 250
+  },
+  {
+    "therapyCode": 78,
+    "name": "Utharavasthi",
+    "price": 1100
+  },
+  {
+    "therapyCode": 79,
+    "name": "Udwarthana",
+    "price": 1095
+  },
+  {
+    "therapyCode": 80,
+    "name": "Urovasthi/Hreedya Basti",
+    "price": 845
+  },
+  {
+    "therapyCode": 81,
+    "name": "Upanaha/Upanahasweda",
+    "price": 590
+  },
+  {
+    "therapyCode": 82,
+    "name": "Yamana",
+    "price": 745
+  },
+  {
+    "therapyCode": 83,
+    "name": "Virechana",
+    "price": 355
+  },
+  {
+    "therapyCode": 84,
+    "name": "Valukasweda/Manalkkizhi-Full Body ",
+    "price": 1080
+  },
+  {
+    "therapyCode": 85,
+    "name": "Vitalaka/Bitalaka ",
+    "price": 450
+  },
+  {
+    "therapyCode": 86,
+    "name": "Yoniprakshalana",
+    "price": 500
+  },
+  {
+    "therapyCode": 87,
+    "name": "Yonidhavana",
+    "price": 500
+  },
+  {
+    "therapyCode": 88,
+    "name": "Yoni Pichu",
+    "price": 460
+  },
+  {
+    "therapyCode": 89,
+    "name": "Yoni Poorana",
+    "price": 460
+  },
+  {
+    "therapyCode": 90,
+    "name": "Yoni Dhoopana",
+    "price": 335
+  },
+  {
+    "therapyCode": 91,
+    "name": "Valukasweda/Manalkkizhi-Sthanikam",
+    "price": 655
+  },
+  {
+    "therapyCode": 92,
+    "name": "Ksheeradhara-Head",
+    "price": 1095
+  },
+  {
+    "therapyCode": 93,
+    "name": "Jambeerapindasweda/Narangakkizhi-Sthanika/Local",
+    "price": 735
+  },
+  {
+    "therapyCode": 94,
+    "name": "Dhanyapindasweda-Sthanika/Local",
+    "price": 730
+  },
+  {
+    "therapyCode": 95,
+    "name": "Dhanyamlapindasweda/Katikkizhi-Sthanika",
+    "price": 705
+  },
+  {
+    "therapyCode": 96,
+    "name": "Veshtanam",
+    "price": 330
+  },
+  {
+    "therapyCode": 97,
+    "name": "Agnikarma (Classical with Panchalohasalaka)",
+    "price": 995
+  }
+]
